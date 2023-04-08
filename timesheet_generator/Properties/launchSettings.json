@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "timesheet_generator": {
+      "commandName": "Project",
+      "commandLineArgs": "2023\r\n4"
+    }
+  }
+}
